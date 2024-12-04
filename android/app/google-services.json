@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "556909001986",
+    "project_id": "watsapp-be267",
+    "storage_bucket": "watsapp-be267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556909001986:android:9e11e27e3ca4df9836561b",
+        "android_client_info": {
+          "package_name": "com.example.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nhVgiKodn5--cBhCVB2UTeHZI3kfskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556909001986:android:0dd7c3b030ba88d836561b",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nhVgiKodn5--cBhCVB2UTeHZI3kfskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556909001986:android:49f201e209ffd29036561b",
+        "android_client_info": {
+          "package_name": "com.omk.ecommers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nhVgiKodn5--cBhCVB2UTeHZI3kfskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
